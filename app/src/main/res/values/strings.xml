@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Osaka Ben Quiz</string>
+    <string name="title_activity_main_game">MainGame</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+    <string name="title_activity_stage_select">StageSelect</string>
+</resources>
